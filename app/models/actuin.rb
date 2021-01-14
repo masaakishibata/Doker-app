@@ -1,2 +1,0 @@
-class Actuin < ApplicationRecord
-end
