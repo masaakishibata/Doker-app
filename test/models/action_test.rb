@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class DatabaseTest < ActiveSupport::TestCase
+class ActionTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end

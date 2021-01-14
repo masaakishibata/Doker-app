@@ -1,2 +1,0 @@
-class Database < ApplicationRecord
-end
